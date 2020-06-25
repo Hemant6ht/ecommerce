@@ -1,0 +1,18 @@
+@media only screen and (max-width: 2400px)
+{
+	.f1{
+     display:block;
+	}
+	.f2{
+		display:none;
+	}
+}
+@media only screen and (max-width: 800px)
+{
+	.f1{
+     display:none;
+	}
+	.f2{
+		display:block;
+	}
+}
